@@ -13,3 +13,9 @@ Each button can be individually programmed. You can add more than one profile an
 <img src="https://github.com/ArwedMeinert/Hotkey-Board/blob/main/Hotkey-board/IMG_20221215_135644_090.jpg" alt= "The PCB of the Hotkey Board" width="50%" height="50%" >
 
 This version of the Hotkey-Board doesn't support anti-ghosting (using diodes for the button matrix). This could be an improvement left for a second version as well as a little OLED display to display various functions of the keys. 
+## Case
+After a few months in use I descided to add a case for the pcb to make it easier to carry around (and because I got access to a t3D Printer).
+<img src="https://github.com/ArwedMeinert/Hotkey-Board/blob/main/Pictures/GOPR0397_ALTA329636650034166083.JPG" alt= "Case of the Board" width="50%" height="50%" >
+All the files are available to download. The case now also includes holes for the hinges as well as magnets embedded in the lid to make it stay closed but still easy enough to open.
+<img src="https://github.com/ArwedMeinert/Hotkey-Board/blob/main/Pictures/GOPR0398_ALTA329636650034166083.JPG" alt= "Case with the Board turned on" width="50%" height="50%" >
+
